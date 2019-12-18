@@ -1,4 +1,8 @@
+#!/bin/bash
 ls -la
+whoami
+ipaddr
 cat /etc/passwd
 date
 pwd
+
