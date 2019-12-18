@@ -7,3 +7,4 @@ date
 pwd
 cat /etc/group
 mkdir usa
+echo "This is useless test of Git"
