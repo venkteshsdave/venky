@@ -6,3 +6,4 @@ cat /etc/passwd
 date
 pwd
 cat /etc/group
+mkdir usa
